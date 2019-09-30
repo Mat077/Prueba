@@ -6,7 +6,7 @@
 <p>Mi primera prueba xD! </p>
 <p>Bueno</p>
 <r></r>
-<p>Gracias por su atenci`n<p>
+<p>Gracias por su atencion<p>
 </body>
  
 </html>
